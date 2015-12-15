@@ -1,0 +1,8 @@
+Package: timetrackr
+Version: 0.1
+Imports: R6
+Suggests: knitr, rmarkdown, settings, testthat
+License: GPL (>= 3)
+MD5sum: a091b722950f756343f097fa2e54a1c1
+NeedsCompilation: no
+
