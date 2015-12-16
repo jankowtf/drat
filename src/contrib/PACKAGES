@@ -3,6 +3,6 @@ Version: 0.1
 Imports: R6
 Suggests: knitr, rmarkdown, settings, testthat
 License: GPL (>= 3)
-MD5sum: a091b722950f756343f097fa2e54a1c1
+MD5sum: 6f68df6d272374aa3f030b03c7027271
 NeedsCompilation: no
 
